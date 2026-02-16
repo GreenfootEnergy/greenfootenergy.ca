@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ==================== HOMEPAGE ==================== -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca"/>
+  </url>
+
+  <!-- ==================== MAIN SERVICE PAGES (priority 0.9) ==================== -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/mini-split-heat-pumps</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/mini-split-heat-pumps"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/pompes-a-chaleur-mini-split"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/pompes-a-chaleur-mini-split</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/mini-split-heat-pumps"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/pompes-a-chaleur-mini-split"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/ducted-central-heat-pumps</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/ducted-central-heat-pumps"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/pompes-a-chaleur-a-canalisations-centrales"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/pompes-a-chaleur-a-canalisations-centrales</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/ducted-central-heat-pumps"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/pompes-a-chaleur-a-canalisations-centrales"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/geothermal-heat-pumps</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/geothermal-heat-pumps"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/pompes-a-chaleur-geothermiques"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/pompes-a-chaleur-geothermiques</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/geothermal-heat-pumps"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/pompes-a-chaleur-geothermiques"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/indoor-air-quality-ventilation</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/indoor-air-quality-ventilation"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/qualite-air-interieur-ventilation"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/qualite-air-interieur-ventilation</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/indoor-air-quality-ventilation"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/qualite-air-interieur-ventilation"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/solar-energy</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/solar-energy"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/energie-solaire"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/energie-solaire</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/solar-energy"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/energie-solaire"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/commercial-solar"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/solaire-commercial"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/solaire-commercial</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/commercial-solar"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/solaire-commercial"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/residential-solar</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/residential-solar"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/solaire-residentiel"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/solaire-residentiel</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/residential-solar"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/solaire-residentiel"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/heat-pumps-and-air-conditioning</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/heat-pumps-and-air-conditioning"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/pompes-a-chaleur-et-climatisation"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/pompes-a-chaleur-et-climatisation</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/heat-pumps-and-air-conditioning"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/pompes-a-chaleur-et-climatisation"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/water-heaters</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/water-heaters"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/chauffe-eau-a-pompe-a-chaleur"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/chauffe-eau-a-pompe-a-chaleur</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/water-heaters"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/chauffe-eau-a-pompe-a-chaleur"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/dual-fuel-heating-systems</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/dual-fuel-heating-systems"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/systemes-de-chauffage-a-double-combustible"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/systemes-de-chauffage-a-double-combustible</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/dual-fuel-heating-systems"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/systemes-de-chauffage-a-double-combustible"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-hvac</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/commercial-hvac"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/cvc-commercial"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/cvc-commercial</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/commercial-hvac"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/cvc-commercial"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-services</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/commercial-services"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/services-commerciaux"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/services-commerciaux</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/commercial-services"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/services-commerciaux"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/generators</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/generators"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/generateurs-denergie-de-secours"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/generateurs-denergie-de-secours</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/generators"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/generateurs-denergie-de-secours"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/sprayfoam-insulation</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/sprayfoam-insulation"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/sprayfoam-insulation"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/maintenance-service-yeti</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/maintenance-service-yeti"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/entretien-et-reparation"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/entretien-et-reparation</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/maintenance-service-yeti"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/entretien-et-reparation"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/peak-thermostat</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/peak-thermostat"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/thermostats-intelligents-peak"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/thermostats-intelligents-peak</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/peak-thermostat"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/thermostats-intelligents-peak"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/urban-yeti-appliances</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/urban-yeti-appliances"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/electromenagers-urbains"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/electromenagers-urbains</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/urban-yeti-appliances"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/electromenagers-urbains"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/soundproofing</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/soundproofing"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/insonorisation"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/insonorisation</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/soundproofing"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/insonorisation"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/batt-poly-insulation</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/batt-poly-insulation"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-en-baton-et-en-polyethylene"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/isolation-en-baton-et-en-polyethylene</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/batt-poly-insulation"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-en-baton-et-en-polyethylene"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/blown-in-insulation</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/blown-in-insulation"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-par-soufflage"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/isolation-par-soufflage</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/blown-in-insulation"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-par-soufflage"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/air-conditioning</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/air-conditioning"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/climatisation"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/climatisation</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/air-conditioning"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/climatisation"/>
+  </url>
+
+  <!-- ==================== COMPANY / INFO PAGES (priority 0.8) ==================== -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/about-us</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/about-us"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/a-propos-de-nous"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/a-propos-de-nous</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/about-us"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/a-propos-de-nous"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/why-choose-us</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/why-choose-us"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/pourquoi-nous-choisir"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/pourquoi-nous-choisir</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/why-choose-us"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/pourquoi-nous-choisir"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/financing</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/financing"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/financement"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/financement</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/financing"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/financement"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/contact-us</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/contact-us"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/communiquez-avec-nous"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/communiquez-avec-nous</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/contact-us"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/communiquez-avec-nous"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/faq</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/faq"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/faq"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/faq</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/faq"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/faq"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/blog</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/blogue</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/specials-promotions</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/specials-promotions"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/offres-et-promotions"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/offres-et-promotions</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/specials-promotions"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/offres-et-promotions"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/provincial-incentives</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/provincial-incentives"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/programmes-encouragement-gouvernementaux"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/programmes-encouragement-gouvernementaux</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/provincial-incentives"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/programmes-encouragement-gouvernementaux"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/membership-plans</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/membership-plans"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/regimes-adhesion"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/regimes-adhesion</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/membership-plans"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/regimes-adhesion"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-glossary</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/heat-pump-glossary"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/glossaire-des-thermopompes"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/glossaire-des-thermopompes</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/heat-pump-glossary"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/glossaire-des-thermopompes"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/careers</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/careers"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/carrieres"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/carrieres</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/careers"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/carrieres"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/referral</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/referral"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/referral"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/referral</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/referral"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/referral"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/kids-club</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/kids-club"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/club-pour-enfants"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/club-pour-enfants</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/kids-club"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/club-pour-enfants"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/google-reviews-page</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/google-reviews-page"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/avis-google"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/avis-google</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/google-reviews-page"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/avis-google"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/review-our-services</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/review-our-services"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/evaluez-nos-services"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/evaluez-nos-services</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/review-our-services"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/evaluez-nos-services"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-snow-covers-protect-your-investment</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/heat-pump-snow-covers-protect-your-investment"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/couvertures-neige-thermopompes"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/couvertures-neige-thermopompes</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/heat-pump-snow-covers-protect-your-investment"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/couvertures-neige-thermopompes"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/app-setup</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/app-setup"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/configuration-application"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/configuration-application</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/app-setup"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/configuration-application"/>
+  </url>
+
+  <!-- Pages with EN/FR pair using same slug -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/privacy-policy</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/privacy-policy"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/privacy-policy</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/privacy-policy"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/privacy-policy"/>
+  </url>
+
+  <url>
+    <loc>https://www.greenfootenergy.ca/terms-of-use</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/terms-of-use"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/terms-of-use"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/terms-of-use</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/terms-of-use"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/terms-of-use"/>
+  </url>
+
+  <!-- EN-only static pages -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/sweepstakes</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/chilliwack</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/2-a-day</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/hygn</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- ==================== BRAND PAGES (priority 0.8) ==================== -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/brands/daikin-heat-pumps</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/brands/mitsubishi-electric-heat-pumps</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/brands/lg-heat-pumps</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/brands/general-electric-heat-pumps</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/brands/gridless-heat-pumps</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/brands/kerr-heat-pumps</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ==================== SPECIALS BY PROVINCE (priority 0.8) ==================== -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/specials/british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/specials/new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/specials/newfoundland-and-labrador</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/specials/nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/specials/prince-edward-island</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ==================== SPRAYFOAM LOCATION PAGES (priority 0.8) ==================== -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/sprayfoam-insulation/halifax</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/sprayfoam-insulation/halifax"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee/halifax"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/sprayfoam-insulation/st-johns</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/sprayfoam-insulation/st-johns"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee/st-johns"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/sprayfoam-insulation/tracadie</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/sprayfoam-insulation/tracadie"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee/tracadie"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/sprayfoam-insulation/vancouver</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/sprayfoam-insulation/vancouver"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee/vancouver"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/sprayfoam-insulation-charlottetown</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/sprayfoam-insulation-charlottetown"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolant-en-mousse-pulverisee-charlottetown"/>
+  </url>
+
+  <!-- French sprayfoam location pages -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee/halifax</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/sprayfoam-insulation/halifax"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee/halifax"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee/st-johns</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/sprayfoam-insulation/st-johns"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee/st-johns"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee/tracadie</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/sprayfoam-insulation/tracadie"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee/tracadie"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee/vancouver</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/sprayfoam-insulation/vancouver"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee/vancouver"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/isolant-en-mousse-pulverisee-charlottetown</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/services/sprayfoam-insulation-charlottetown"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/services/isolant-en-mousse-pulverisee-charlottetown"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee-fredericton</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/services/isolation-en-mousse-pulverisee-halifax</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ==================== HEAT PUMP EXPERTS LOCATION PAGES (priority 0.8) ==================== -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/kentville-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/dartmouth-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/new-glasgow-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/bridgewater-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/sydney-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/fredericton-new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/saint-john-new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/tracadie-sheila-new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/moncton-new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/paradise-newfoundland</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/kamloops-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/kelowna-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/langley-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/victoria-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/surrey-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/abbotsford-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/heat-pump-experts/charlottetown-prince-edward-island</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ==================== SOLAR EXPERTS LOCATION PAGES (priority 0.8) ==================== -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/kentville-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/dartmouth-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/new-glasgow-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/bridgewater-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/sydney-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/fredericton-new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/saint-john-new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/tracadie-sheila-new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/moncton-new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/paradise-newfoundland</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/kamloops-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/kelowna-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/langley-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/victoria-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/surrey-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/abbotsford-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/solar-experts/charlottetown-prince-edward-island</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ==================== COMMERCIAL SOLAR LOCATION PAGES (priority 0.8) ==================== -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/kentville-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/dartmouth-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/new-glasgow-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/bridgewater-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/sydney-nova-scotia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/fredericton-new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/saint-john-new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/tracadie-sheila-new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/moncton-new-brunswick</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/paradise-newfoundland</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/kamloops-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/kelowna-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/langley-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/victoria-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/surrey-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/abbotsford-british-columbia</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/services/commercial-solar/charlottetown-prince-edward-island</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ==================== BLOG POSTS (priority 0.7) ==================== -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/blog/energy-saving-tips-for-your-home-greenfoots-guide-for-2025</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/energy-saving-tips-for-your-home-greenfoots-guide-for-2025"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/energy-saving-tips-for-your-home-greenfoots-guide-for-2025"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/blog/energy-efficiency-tips</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/energy-efficiency-tips"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/energy-efficiency-tips"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/blog/canadian-rebates-solar</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/canadian-rebates-solar"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/canadian-rebates-solar"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/blog/benefits-of-hvac-systems</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/benefits-of-hvac-systems"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/benefits-of-hvac-systems"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/blog/understanding-hvac-systems</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/understanding-hvac-systems"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/understanding-hvac-systems"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/blog/peak-smart-thermostat-revolutionizing-home-climate-control</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/peak-smart-thermostat-revolutionizing-home-climate-control"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/peak-smart-thermostat-revolutionizing-home-climate-control"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/blog/all-in-one-comfort-discover-the-full-range-of-services-at-greenfoot-energy-solutions</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/all-in-one-comfort-discover-the-full-range-of-services-at-greenfoot-energy-solutions"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/all-in-one-comfort-discover-the-full-range-of-services-at-greenfoot-energy-solutions"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/blog/solar-energy-myths</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/solar-energy-myths"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/solar-energy-myths"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/blog/geothermal-for-my-home-or-business-making-the-switch-and-how-to-avoid-costly-mistakes</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/geothermal-for-my-home-or-business-making-the-switch-and-how-to-avoid-costly-mistakes"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/geothermal-for-my-home-or-business-making-the-switch-and-how-to-avoid-costly-mistakes"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/blog/benefits-of-heat-pumps</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/benefits-of-heat-pumps"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/benefits-of-heat-pumps"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/blog/greenfoot-partners-with-saint-john-energy-2025-update</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/greenfoot-partners-with-saint-john-energy-2025-update"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/greenfoot-partners-with-saint-john-energy-2025-update"/>
+  </url>
+
+  <!-- French blog posts -->
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/blogue/energy-saving-tips-for-your-home-greenfoots-guide-for-2025</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/energy-saving-tips-for-your-home-greenfoots-guide-for-2025"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/energy-saving-tips-for-your-home-greenfoots-guide-for-2025"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/blogue/energy-efficiency-tips</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/energy-efficiency-tips"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/energy-efficiency-tips"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/blogue/canadian-rebates-solar</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/canadian-rebates-solar"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/canadian-rebates-solar"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/blogue/benefits-of-hvac-systems</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/benefits-of-hvac-systems"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/benefits-of-hvac-systems"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/blogue/understanding-hvac-systems</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/understanding-hvac-systems"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/understanding-hvac-systems"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/blogue/peak-smart-thermostat-revolutionizing-home-climate-control</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/peak-smart-thermostat-revolutionizing-home-climate-control"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/peak-smart-thermostat-revolutionizing-home-climate-control"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/blogue/all-in-one-comfort-discover-the-full-range-of-services-at-greenfoot-energy-solutions</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/all-in-one-comfort-discover-the-full-range-of-services-at-greenfoot-energy-solutions"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/all-in-one-comfort-discover-the-full-range-of-services-at-greenfoot-energy-solutions"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/blogue/solar-energy-myths</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/solar-energy-myths"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/solar-energy-myths"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/blogue/geothermal-for-my-home-or-business-making-the-switch-and-how-to-avoid-costly-mistakes</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/geothermal-for-my-home-or-business-making-the-switch-and-how-to-avoid-costly-mistakes"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/geothermal-for-my-home-or-business-making-the-switch-and-how-to-avoid-costly-mistakes"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/blogue/benefits-of-heat-pumps</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/benefits-of-heat-pumps"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/benefits-of-heat-pumps"/>
+  </url>
+  <url>
+    <loc>https://www.greenfootenergy.ca/fr-ca/blogue/greenfoot-partners-with-saint-john-energy-2025-update</loc>
+    <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.greenfootenergy.ca/blog/greenfoot-partners-with-saint-john-energy-2025-update"/>
+    <xhtml:link rel="alternate" hreflang="fr-ca" href="https://www.greenfootenergy.ca/fr-ca/blogue/greenfoot-partners-with-saint-john-energy-2025-update"/>
+  </url>
+
+</urlset>
