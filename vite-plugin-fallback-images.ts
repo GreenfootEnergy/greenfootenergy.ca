@@ -14,21 +14,27 @@ export function fallbackImagesPlugin(): Plugin {
     enforce: 'pre',
 
     load(id) {
+      // Normalize path separators
+      const normalizedId = id.replace(/\\/g, '/');
+
       // Only handle files from the assets directory
-      if (!id.includes('/client/src/assets/')) {
+      if (!normalizedId.includes('/client/src/assets/')) {
         return null;
       }
 
+      // Remove query parameters (like ?url)
+      const cleanId = id.split('?')[0];
+
       // Check if file exists
-      if (existsSync(id)) {
+      if (existsSync(cleanId)) {
         return null; // Let Vite handle it normally
       }
 
       // File doesn't exist - return a placeholder
-      const filename = path.basename(id);
+      const filename = path.basename(cleanId);
       console.warn(`⚠️  Missing image: ${filename} - using placeholder`);
 
-      const ext = path.extname(id).toLowerCase();
+      const ext = path.extname(cleanId).toLowerCase();
       let placeholder: string;
 
       if (['.svg'].includes(ext)) {
